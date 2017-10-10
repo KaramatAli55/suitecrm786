@@ -1,0 +1,6 @@
+Mon Oct  9 11:18:09 2017 [4486][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Oct  9 11:18:09 2017 [4486][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Oct  9 11:22:31 2017 [4483][1][FATAL] SugarPHPMailer encountered an error: An outgoing mail server is not configured to send emails. Please configure an outgoing mail server or select an outgoing mail server for the mail account that you are using in Settings >> Mail Account.
+Mon Oct  9 11:22:31 2017 [4483][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Mon Oct  9 11:46:00 2017 [4732][1][FATAL] SugarPHPMailer encountered an error: The outbound mail server selected for the mail account you are using is invalid. Check the settings or select a different mail server for the mail account.
+Mon Oct  9 11:46:00 2017 [4732][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
